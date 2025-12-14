@@ -1,4 +1,3 @@
-# ansible-k8s-cluster
 # My Custom Kubespray Repository
 
 This is a custom fork of Kubespray for deploying a Kubernetes cluster on my virtual machines (VMs), with integrations for Argo CD, Calico CNI, dynamic VM discovery, and custom configurations.
