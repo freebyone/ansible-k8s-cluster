@@ -1,0 +1,6 @@
+ansible_user: ubuntu
+ansible_become: true
+bootstrap_os: ubuntu
+download_run_once: true
+kubeconfig_localhost: true
+my_custom_var: "value_link"

@@ -1,0 +1,3 @@
+calico_mtu: 1440
+calico_ip_autodetection_method: interface=eth.*
+calico_backend: bird
